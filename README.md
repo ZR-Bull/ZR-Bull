@@ -1,4 +1,4 @@
-<h1>Hi, I'm Zach! <br/><a href="https://github.com/ZacBull">Programmer</a>, <a href="[https://www.linkedin.com/in/joshmadakor/](https://www.linkedin.com/in/zachary-r-bull-876298284)">Cybersecurity Professional</a>, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>
+<h1>Hi, I'm Zach! <br/><a href="https://github.com/ZacBull">Programmer</a>, <a href="https://www.linkedin.com/in/zachary-r-bull-876298284/">Computer Science Student</a>, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
