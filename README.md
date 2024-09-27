@@ -5,7 +5,7 @@
 - <b>Sample Project Name</b>
   - [Sample Project with link (this just goes back to my main github page)](https://github.com/ZacBull/)
 
-<h2>My Hobbies:</h2>
+<h2>📸My Hobbies:</h2>
 
 <h2> 🤳 Connect with me:</h2>
 
